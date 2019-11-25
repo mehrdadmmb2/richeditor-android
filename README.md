@@ -55,6 +55,7 @@ Attribute change of editor
 **Milestone**
 
 - [ ] Font Family
+- [ ] RTL Support
 
 Demo
 ---
