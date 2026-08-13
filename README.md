@@ -162,7 +162,7 @@ Pasted content is automatically **sanitized** – only safe HTML tags and attrib
 ### Setup
 
 ```groovy
-clone this repo
+clone v2.0.0 branch
 ```
 
 ### Basic Editor Configuration (Java)
