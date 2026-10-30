@@ -206,7 +206,10 @@ editor.insertImage("https://example.com/photo.jpg", "My photo");
 
 If you find this project helpful and want to support its future development:
 
-### ☕ Buy me a coffee (Crypto)
+### ☕ Buy me a coffee
+
+ [<img width="200" height="200"   src="https://github.com/user-attachments/assets/2b93c47d-a37b-4d3f-951e-8623fc597830">](https://donat.to/StreamerPage?u=mehrdadmmb2)
+
 
 - **Tether (USDT, TRC20):** `TRzxqih3wSjPkb8EmrF7TzAvSquGhf1wwo`
 - **ETH**: `0x43EC594eE36b9895E863DF234f7d393606537209` (✅)
